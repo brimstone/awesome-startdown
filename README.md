@@ -12,3 +12,8 @@ Taken from https://www.metachris.com/2016/03/free-transactional-email-services-t
   - Used by: GitHub, Stripe, Heroku
   - Sending via SMTP, HTTP API
   - Features: Delivery statistics, Recipient Variables (first name, order value, …), Open, click & unsubscribe tracking, Dedicated IP, Inbound Email
+
+Platform As A Service
+---------------------
+- Openshift
+- Heroku
